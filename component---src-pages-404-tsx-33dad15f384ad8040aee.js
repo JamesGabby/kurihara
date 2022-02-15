@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkurihara=self.webpackChunkkurihara||[]).push([[218],{938:function(r,s,u){u.r(s);var e=u(2226),i=u(3805),n=u(5194),a=u(5893);s.default=function(){return(0,a.jsxs)(i.I,{children:[(0,a.jsx)(e.J,{suffix:"博丽大结界"}),(0,a.jsx)("div",{children:"你来到了结界的边缘，只看到一片空白"}),(0,a.jsx)(n.h,{})]})}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-33dad15f384ad8040aee.js.map
